@@ -1,0 +1,6 @@
+{'name': 'gerenciar', 'Style': 'True', 'Assigned To': 'Guilherme'}
+{'name': 'imprimir', 'Style': 'True', 'Assigned To': 'Dayane'}
+{'name': 'carregar', 'Style': 'True', 'Assigned To': 'Celia'}
+{'name': 'desviar', 'Style': 'False', 'Assigned To': 'Joao'}
+{'name': 'assistir', 'Style': 'False', 'Assigned To': 'Fernando'}
+{'name': 'brigar', 'Style': 'False', 'Assigned To': 'Marcos'}

@@ -1,0 +1,35 @@
+tfoot {
+    display: table-header-group;
+}
+
+tfoot input {
+    width: 100%;
+    outline: none;
+    height: 22px;
+    font-size: 12px;
+    background-image: url("../jquery-datatables/searchicon.png");
+    background-size: 15px 16px;
+    background-repeat: no-repeat;
+    padding-left: 18px;
+}
+
+tfoot input[type=text]:focus {
+    border: 3px solid #555;
+    //background-color: #eee;
+}
+
+table{
+    width: 100%;
+}
+
+table td {
+    min-width:100px;
+}
+
+table th {
+    text-align: center;
+}
+
+#myTable_filter{
+    visibility: hidden;
+}
